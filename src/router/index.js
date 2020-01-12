@@ -29,6 +29,11 @@ const routes = [
     path: "/per-month",
     name: "per-month",
     component: PerMonth
+  },
+  {
+    path: "/settings",
+    name: ""settings",
+    component: Settings
   }
 ];
 
